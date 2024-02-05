@@ -9,6 +9,7 @@ border: 1px solid #000;
 padding: 1em;
 }
 body {
+    width: 100%;
     background-image: url("poe.jpg");
     background-color: #cccccc;
     background-size: 100%;
