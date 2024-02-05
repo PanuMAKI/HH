@@ -7,13 +7,14 @@ table, th, td {
 border-collapse: collapse;
 border: 1px solid #ffffff;
 padding: 1em;
+color: white;
 }
 body {
     width: 100%;
     background-image: url("poe.jpg");
-    background-color: #cccccc;
+    background-color: #ffffff;
     background-size: 100%;
    }
-p,h1,a { 
-    color: white;
+p,h1,a,h2 { 
+    color: rgb(158, 158, 158);
 }
