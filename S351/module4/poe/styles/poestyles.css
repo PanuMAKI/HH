@@ -9,11 +9,16 @@ border-collapse: collapse;
 border: 1px solid #000000;
 padding: 1em;
 color: rgb(0, 0, 0);
+background-color: crimson;
 font-size: 125%; width: 75%;
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-family: cursive;
 }
+/*the back round color is quite useles here because you can only see it when you scroll past the page */
 body {
     background-color: beige;
+    background-image: url(poe.jpg);
+    background-position: right, top;
+    background-size: 30%;
 }
     
    
@@ -21,9 +26,11 @@ p,a,h2 {
     font-size: 125%;
     width: 75%;
     color: rgb(0, 0, 0);
+    background-color: aqua; 
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h1{
     font-size: 250%;
     width: 75%;
+    background-color: blueviolet;
 }
