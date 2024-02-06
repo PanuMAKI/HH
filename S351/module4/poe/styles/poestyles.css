@@ -3,18 +3,27 @@ max-width: 60em;
 margin: 0 auto 0 auto;
 }
 
+
 table, th, td {
 border-collapse: collapse;
-border: 1px solid #ffffff;
+border: 1px solid #000000;
 padding: 1em;
-color: white;
+color: rgb(0, 0, 0);
+font-size: 125%; width: 75%;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 body {
-    width: 100%;
-    background-image: url("poe.jpg");
-    background-color: #ffffff;
-    background-size: 100%;
-   }
-p,h1,a,h2 { 
-    color: rgb(255, 0, 0);
+    background-color: beige;
+}
+    
+   
+p,a,h2 { 
+    font-size: 125%;
+    width: 75%;
+    color: rgb(0, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    font-size: 250%;
+    width: 75%;
 }
