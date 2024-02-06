@@ -29,6 +29,7 @@ p,a,h2 {
     background-color: aqua; 
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+/* this chages the size and fot of the header*/
 h1{
     font-size: 250%;
     width: 75%;
